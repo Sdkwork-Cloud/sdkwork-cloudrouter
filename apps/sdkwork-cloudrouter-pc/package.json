@@ -185,7 +185,7 @@
     "monaco-editor": "^0.55.1",
     "motion": "catalog:",
     "motion-dom": "^12.38.0",
-    "motion-utils": "^12.36.0",
+    "motion-utils": "^13.0.0",
     "qrcode": "catalog:",
     "react": "catalog:",
     "react-dom": "catalog:",
