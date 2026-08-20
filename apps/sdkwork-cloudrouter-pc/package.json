@@ -199,7 +199,7 @@
     "react-is": "^19.2.6",
     "react-router": "catalog:",
     "react-router-dom": "catalog:",
-    "recharts": "^3.8.1",
+    "recharts": "^3.10.1",
     "scheduler": "^0.27.0",
     "style-to-js": "^1.1.21",
     "@sdkwork/account-pc-wallet": "workspace:*",
