@@ -116,7 +116,7 @@
   "dependencies": {
     "@monaco-editor/loader": "^1.7.0",
     "@monaco-editor/react": "catalog:",
-    "@radix-ui/react-compose-refs": "1.1.2",
+    "@radix-ui/react-compose-refs": "1.1.5",
     "@radix-ui/react-slot": "catalog:",
     "@sdkwork/iam-app-sdk": "workspace:*",
     "@sdkwork/iam-backend-sdk": "workspace:*",
